@@ -1,0 +1,59 @@
+
+body, html {
+background-color : rgb(255, 152, 174);
+height: 100%;
+margin: 0;
+width: 100%;
+overflow-x: hidden;
+}
+
+.headermain{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+}  
+.section1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:45%;
+    text-align: justify;
+    float: left;
+    border-style: dotted;
+    border-color: brown;
+    padding: 10px;
+} 
+
+.section2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:45%;
+    text-align: justify;
+    float: left;
+    border-style: dotted;
+    border-color: brown;
+    padding: 10px;
+} 
+
+.poemHead{
+    text-align: center;
+}
+
+.poemText{
+text-align: center;
+}
+.photogalery{
+    text-align: center;
+
+}
+
+.footer{
+    text-align: center;
+    padding: 5%;
+}
